@@ -1,0 +1,14 @@
+# data files
+*.h5ad
+*.h5
+*.loom
+
+# jupyter checkpoints
+.ipynb_checkpoints/
+
+# python cache
+__pycache__/
+*.pyc
+
+# conda environment
+*.egg-info/ 
