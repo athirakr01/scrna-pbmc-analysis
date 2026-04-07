@@ -57,6 +57,9 @@ jupyter lab scRNA_PBMC_analysis.ipynb
 
 The dataset downloads automatically on first run — no manual download needed.
 
+## View Notebook
+[Click here to view the full notebook](https://nbviewer.org/github/athirakr01/scrna-pbmc-analysis/blob/master/scRNA_PBMC_analysis.ipynb)
+
 ---
 
 ## Author
